@@ -2,7 +2,7 @@
 name = "pqc-iot-analyzer"
 version = "0.1.0"
 edition = "2021"
-authors = ["Muhammad Amar Sohail <amarsohail838@gmail.com>"]
+authors = ["Muhammad Amar Sohail"]
 description = "A PQC-ready IoT protocol analyzer that inspects CoAP, MQTT, and RPL traffic for post-quantum cryptographic readiness"
 license = "MIT"
 readme = "README.md"
